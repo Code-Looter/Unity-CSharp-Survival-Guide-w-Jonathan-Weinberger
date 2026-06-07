@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\The_CSHarp_Surival_Guide_Repo\\Unity-CSharp-Survival-Guide-w-Jonathan-Weinberger\\Change_Game_Object_Position\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{873615C0-4044-41CF-7683-5F66FB49F334}|Assembly-CSharp.csproj|c:\\the_csharp_surival_guide_repo\\unity-csharp-survival-guide-w-jonathan-weinberger\\change_game_object_position\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873615C0-4044-41CF-7683-5F66FB49F334}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\The_CSHarp_Surival_Guide_Repo\\Unity-CSharp-Survival-Guide-w-Jonathan-Weinberger\\Change_Game_Object_Position\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\The_CSHarp_Surival_Guide_Repo\\Unity-CSharp-Survival-Guide-w-Jonathan-Weinberger\\Change_Game_Object_Position\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T15:29:10.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
