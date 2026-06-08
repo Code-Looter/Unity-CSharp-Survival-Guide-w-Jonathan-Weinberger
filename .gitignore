@@ -27,6 +27,7 @@ CrashReports/
 *.sln.docstates
 .idea/
 *.sln.iml
+.vs/
 
 # Unity Package Manager
 UnityPackageManager/log.txt
